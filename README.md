@@ -14,16 +14,14 @@ The objective of MEDIHUB, a hospital management system, is to streamline and opt
 - MySQL 🗃️: Utilized for managing relational databases and handling data storage and retrieval within web applications.
 
 ### Tools Used
-VSCode 🖥️: A powerful code editor for writing and debugging code efficiently.
-Trello 📋: A project management tool for organizing tasks and tracking progress.
-XAMPP 🚀: A software package for setting up a local web server environment, including Apache, MySQL, PHP, and Perl.
-phpMyAdmin 📂: A web-based tool for managing MySQL databases easily.
+-VSCode 🖥️: A powerful code editor for writing and debugging code efficiently.
+-Trello 📋: A project management tool for organizing tasks and tracking progress.
+-XAMPP 🚀: A software package for setting up a local web server environment, including Apache, MySQL, PHP, and Perl.
+-phpMyAdmin 📂: A web-based tool for managing MySQL databases easily.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+Steps to run this project are:
+1. **Install XAMPP and Run** 🚀: Download and install XAMPP, then start the Apache and MySQL servers.
+2. **Import Database File `db_hms`** 📂: Open phpMyAdmin, create a new database named `db_hms`, and import the provided database file into this database.
+3. **Import HMS File in XAMPP `htdocs` Folder** 📁: Copy the HMS project files into the `htdocs` folder located in the XAMPP installation directory.
+4. **Run in Web Browser** 🌐: Open a web browser and navigate to `http://localhost/hms/index.php/MasterController/viewHospitalMst` to access the project.
