@@ -26,4 +26,12 @@ Steps to run this project are:
 3. **Import HMS File in XAMPP `htdocs` Folder** 📁: Copy the HMS project files into the `htdocs` folder located in the XAMPP installation directory.
 4. **Run in Web Browser** 🌐: Open a web browser and navigate to `http://localhost/hms/index.php/MasterController/viewHospitalMst` to access the project.
 
-###View Of MEDIHUB
+## Some Images of MEDIHUB
+Doctor Master
+![Screenshot 2024-06-02 195551](https://github.com/omkarkajale/Hospital-Management-System-MEDIHUB-/assets/115961814/829c1110-edff-4785-91ae-45d50b26c4b9)
+
+Department Master
+![Screenshot 2024-06-02 195537](https://github.com/omkarkajale/Hospital-Management-System-MEDIHUB-/assets/115961814/8c0a96bd-f5e0-41a8-99b5-2e68f239e927)
+
+Hospital Master
+![Screenshot 2024-06-02 195521](https://github.com/omkarkajale/Hospital-Management-System-MEDIHUB-/assets/115961814/16761197-bf6f-40d1-8b0b-89786e7688b0)
